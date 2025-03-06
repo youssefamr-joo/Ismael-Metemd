@@ -60,6 +60,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/youssefamr-joo/output/snake.svg" alt="Snake animation" />
-
-###
