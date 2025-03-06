@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/youssefamr-joo/youssefamr-joo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/youssefamr-joo/output/snake.svg" alt="Snake animation" />
 
 ###
