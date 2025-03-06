@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ I am Ismael Amr, a Front-End Developer specializing in Angular, passionate about building engaging and user-focused web applications.  <br>📚 I bring creative ideas to life through clean, efficient code and seamless user experiences.  <br>🎯 Always eager to learn, currently diving into .NET backend development to expand my skills!</h4>
+<h4 align="left">✨ I am a Front-End Developer specializing in Angular, passionate about building engaging and user-focused web applications.  <br>📚 I bring creative ideas to life through clean, efficient code and seamless user experiences.  <br>🎯 Always eager to learn, currently diving into .NET backend development to expand my skills!</h4>
 
 ###
 
